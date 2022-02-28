@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A political catechism, or, Certain questions concerning the government of this land, answered in His Majesties own words, taken out of his answer to the 19 propositions, Pag. 17, 18, 19, 20. of the first edition; with some brief observations thereupon. Published for the more compleat setling of consciences, particularly of those that have made the late protestation, to maintain the power and priviledges of Parliament, when they shall herein see the Kings own interpretation what that power and priviledges are. It is this twentieth day of May, Anno Dom. 1643. ordered by the Committee of the House of Commons in Parliament concerning printing, that this book entituled, A Political catechism, be printed. John White.</title>
+            <author>Parker, Henry, 1604-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91336</idno>
+            <idno type="STC">Wing P416</idno>
+            <idno type="STC">Thomason E104_8b</idno>
+            <idno type="EEBO-CITATION">99859406</idno>
+            <idno type="PROQUEST">99859406</idno>
+            <idno type="VID">111481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111481)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[8b])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A political catechism, or, Certain questions concerning the government of this land, answered in His Majesties own words, taken out of his answer to the 19 propositions, Pag. 17, 18, 19, 20. of the first edition; with some brief observations thereupon. Published for the more compleat setling of consciences, particularly of those that have made the late protestation, to maintain the power and priviledges of Parliament, when they shall herein see the Kings own interpretation what that power and priviledges are. It is this twentieth day of May, Anno Dom. 1643. ordered by the Committee of the House of Commons in Parliament concerning printing, that this book entituled, A Political catechism, be printed. John White.</title>
+                  <author>Parker, Henry, 1604-1652.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand, at the Brazen-Serpent in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two editions are filmed consecutively, both given Thomason E.104[8]. The first is Wing P416A, and has an ornamental border enclosing title. The second is Wing P416, which does not have a border.</note>
+                  <note>In this edition, line fifteen of title reads: "shall herein see the kings own interpretation"; Title not enclosed within an ornamental border, and rule precedes imprint.</note>
+                  <note>By Henry Parker -- Cf. Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I). --  His Maiesties answer to the XIX propositions of both Houses of Parliament.</term>
+               <term>Royal supremacy (Church of England) --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111481:1" rendition="simple:additions"/>
+            <pb facs="tcp:111481:1" rendition="simple:additions"/>
+            <p>A POLITICAL CATECHISM, <hi>OR,</hi> Certain Queſtions concerning the Government of this Land, An<g ref="char:EOLhyphen"/>ſwered in His Majeſties own words, taken out of His Anſwer to the 19 Propoſitions, <hi>Pag.</hi> 17, 18, 19, 20. of the firſt Edition; with ſome brief Obſerva<g ref="char:EOLhyphen"/>tions thereupon.</p>
+            <p>Publiſhed for the more compleat ſetling of Conſciences, particularly of thoſe that have made the late Proteſtation, to maintain the Power and Priviledges of Parliament, when they ſhall herein ſee the Kings own Interpretation what that Power and Priviledges are.</p>
+            <q>
+               <hi>We can do nothing againſt the Truth, but for the Truth,</hi> 
+               <bibl>2 Cor, 13. 8.</bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>It is this twentieth day of May,</hi> Anno Dom. 1643. <hi>Ordered by the Com<g ref="char:EOLhyphen"/>mittee of the Houſe of Commons in Parliament concerning Printing, that this Book Entituled,</hi> A Political Catechiſm, <hi>be Printed.</hi>
+                        </p>
+                        <closer>
+                           <signed>John White.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Gellibrand</hi> at the <hi>Brazen-Serpent</hi> in <hi>P<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>'s Churc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Yard,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111481:2"/>
+            <pb n="1" facs="tcp:111481:2"/>
+            <head>A Political Catechiſm; Serving to inſtruct thoſe that have made the Proteſtation concerning the power and priviledges of Parliament; taken out of His Majeſties Anſwer to the 19 Propoſitions.</head>
+            <div type="catechism">
+               <p>Queſtion.</p>
+               <p>
+                  <hi>HOW many ſimple kinds are there of Civil Govern<g ref="char:EOLhyphen"/>ment of States, and Common-wealths?</hi>
+               </p>
+               <p>Anſwer, <hi>There are three kinds of Govern<g ref="char:EOLhyphen"/>ment</hi>
+                  <note place="margin">Three kinds of Govern<g ref="char:EOLhyphen"/>ment amongſt men.</note> 
+                  <hi>among men; Abſolute Monarchy, Ari<g ref="char:EOLhyphen"/>ſtocracy, and Democracy, <hi>page,</hi>
+                  </hi> 17.</p>
+               <p>Qu. 2. <hi>Are there any of theſe ſimple Forms perfect?</hi>
+               </p>
+               <p>Anſ. <hi>All theſe have their particular Convenicuces and Inconvenieuces, <hi>page</hi>
+                  </hi> 17.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. Experience hath taught men every where<note place="margin">Never any of theſe kinds of Govern<g ref="char:EOLhyphen"/>ment continu<g ref="char:EOLhyphen"/>ed long, exact<g ref="char:EOLhyphen"/>ly ſimple.</note> to acknowledge this, and accordingly there never was long (if at all) continued any of theſe Forms exactly Simple; though ſome have more ſeemed ſuch then others. Alſo in all mixtures there is commonly ſome one of theſe Forms more<note place="margin">The Govern<g ref="char:EOLhyphen"/>ment of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> moulded out of a mix<g ref="char:EOLhyphen"/>ture of Monar<g ref="char:EOLhyphen"/>chy, Ariſto<g ref="char:EOLhyphen"/>cracy and De<g ref="char:EOLhyphen"/>mocracy.</note> conſpieuous then the reſt, from whence ſuch a particular Go<g ref="char:EOLhyphen"/>verntment hath its denomination.</p>
+               <p>Queſt. 3. <hi>Is the State of</hi> England <hi>governed by any one of theſe kinds ſimply?</hi>
+               </p>
+               <p>A. <hi>The Experience and Wiſdom of your Anceſtors hath moulded this [Government] out of a mixture of theſe. <hi>p.</hi>
+                  </hi> 18.</p>
+               <p>Queſt. 4. <hi>What a kind of Government then is that of the State</hi>
+                  <note place="margin">If <hi>England</hi> be governed by a regula<g ref="char:EOLhyphen"/>ted Monarchy, then it is vain and meer flat<g ref="char:EOLhyphen"/>tery to talk of an abſolute Monarchy<g ref="char:punc">▪</g>
+                  </note> 
+                  <hi>of</hi> England.</p>
+               <p>Anſ. <hi>Regulated Monarchy. <hi>page</hi>
+                  </hi> 18.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. If this Government be a mixture of all theſe, and a Regulated Monarchy; then it is a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ond thing with us to talk of an Abſolute Monarchy, and what an Abſolute
+<pb n="2" facs="tcp:111481:3"/>
+Monarch is, or may do. And it is only the language of Flattery that holds ſuch Diſcourſes.</p>
+               <p>2. It needed not to be counted Soleciſm (as ſome would perſwade us to ſpeak of Free Subjects in a Monarchy, ſuch<note place="margin">Free Subjects.</note> a Monarchy as ours is.</p>
+               <p>3. If this Government be a mixture of all three, then the<note place="margin">The Houſe of Commons hath a ſhare in this Govern<g ref="char:EOLhyphen"/>ment.</note> Houſe of Commons, the Repreſentative Body of the people, muſt needs be allowed a ſhare in Government (ſome at leaſt) which yet is denyed <hi>page</hi> 19.</p>
+               <p>4. If this Government be a mixture, then is not the Go<g ref="char:EOLhyphen"/>vernment<note place="margin">The Govern<g ref="char:EOLhyphen"/>ment not to be truſted in the King.</note> according to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Laws, ſolely truſted to the King, as ſeems to be affirmed, <hi>page</hi> 18.</p>
+               <p>5. If the Government be regulated, why do men tell us<note place="margin">The King not above Law.</note> that the King is above all Law? for it is by Laws that he is Regulated.</p>
+               <p>6. If the King be Regulated by the Law, then is the<note place="margin">The King ac<g ref="char:EOLhyphen"/>countable to Law.</note> King accountable to the Law, and not to God only, as men would make us believe.</p>
+               <p>7. If the Monarchy or Regal Authority it ſelf be regu<g ref="char:EOLhyphen"/>lated,<note place="margin">Whatſoever is done by the King beyond the limits of Law is not re<g ref="char:EOLhyphen"/>gal Authority.</note> then whatſoever is done by the King, undeniably without and beyond the limits of that Regulation, is not <hi>Regal Authority.</hi> And therefore,</p>
+               <p>8. To reſiſt the Notorious Tranſgreſſions of that Regula<g ref="char:EOLhyphen"/>tion, is no Reſiſting of <hi>Regal Authority.</hi> And,<note place="margin">No reſiſtance of the Ordi<g ref="char:EOLhyphen"/>nance of God.</note>
+               </p>
+               <p>9. It is ſo far from being a Reſiſting of the Ordinance of God, that it is not ſo much as Reſiſting the Ordinance of man.</p>
+               <p>Queſt. 5. <hi>By whom was this government framed in this ſort? or who is to be accounted the Immediate Efficient of the Conſti<g ref="char:EOLhyphen"/>tution</hi>
+                  <note place="margin">This Go<g ref="char:EOLhyphen"/>vernment was moulded by the wiſdom of your Ance<g ref="char:EOLhyphen"/>ſtors.</note> 
+                  <hi>thereof?</hi>
+               </p>
+               <p>A. <hi>The Experience and Wiſdom of your Anceſtors hath ſo moulded this, <hi>page</hi>
+                  </hi> 18.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. If our Anceſtors were the moulders of this Government, then the King hath not his power, ſolely, or<note place="margin">The King hath not his power ſolely and immedi<g ref="char:EOLhyphen"/>atly by Divine Right, much leſs by right of Conqueſt.</note> immediately, by Divine Right.</p>
+               <p>2. Much leſs hath he his Power or Authority by Right of Conqueſt.</p>
+               <p>3. But the Immediate Original of it was from the people. And if ſo, Then—</p>
+               <p>4. In queſtioned caſes, the King is to Produce his Grant
+<pb n="3" facs="tcp:111481:3"/>
+(for he hath no more then what was granted) and not the<note place="margin">The King to produce his grant if his power be que<g ref="char:EOLhyphen"/>ſtioned.</note> People to ſhew a Reſervation; For all is preſumed to be Reſerved, which cannot be proved to be granted away.</p>
+               <p>Queſt. 6. <hi>Is this Regulated and mixt Monarchy, as good as an Abſolute Monarchy, or better, or worſe?</hi>
+               </p>
+               <p>A. <hi>This Excellent Conſtitution of this Kingdom, (the</hi>
+                  <note place="margin">This excel<g ref="char:EOLhyphen"/>lent conſtitu<g ref="char:EOLhyphen"/>tion of Go<g ref="char:EOLhyphen"/>vernment hath made this Nation famous and happy.</note> 
+                  <hi>Ancient, Equal, Happy, Well-poyſed, and never enough Commended Conſtitution of the Government of this King<g ref="char:EOLhyphen"/>dom. <hi>page</hi> 17.) hath mad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Nation ſo many years both Famous and Happy, and to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Degree of Envy, <hi>pag.</hi>
+                  </hi> 20.</p>
+               <p>Queſt. 7. <hi>How comes it to pays that this Conſtitution is ſo Ex<g ref="char:EOLhyphen"/>cellent.</hi>
+                  <note place="margin">This king<g ref="char:EOLhyphen"/>dom hath the conveniences of all three kinds of Go<g ref="char:EOLhyphen"/>vernment.</note>
+               </p>
+               <p>A. <hi>The Experience and Wiſdom of your Anceſtors hath ſo moulded this, out of a mixture of theſe, as to give to this Kingdom (as far as Humane Prudence can provide) the Conveniences of all three, without the Inconvenience of any one, <hi>page</hi>
+                  </hi> 18.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. Then thoſe that would place in the King, an<note place="margin">Abſolute Ar<g ref="char:EOLhyphen"/>bitrary Power deſtructive to the Kingdom.</note> Abſolute and Arbitrary Power to do what he Liſt, are De<g ref="char:EOLhyphen"/>ſtructive to the Nations Happineſs, and Enemies to the Kingdom.<note place="margin">It is not the greatneſs of the Kings power over his people, but the reſtraint of that power, that hath made this Kingdom hap<g ref="char:EOLhyphen"/>py.</note>
+               </p>
+               <p>2. If this mixture cauſe this happineſs, then it is not the greatneſs of the Kings Power over his People but the Re<g ref="char:EOLhyphen"/>ſtraint of that Power that hath made this Kingdom famous and Happy; for other Kings have Power as large, but not ſo much reſtrained; which largeneſs of their Power hath raiſed thoſe Kings indeed, (but not their Kingdoms) to a great degree of Envy.</p>
+               <p>3. Hence we diſcern, that it is poſſible for Kings to envy their Peoples Happineſs, becauſe the largeneſs of the Peoples<note place="margin">Whereon the largeneſs of peoples hap<g ref="char:EOLhyphen"/>neſs depends.</note> Happineſs depends much upon the Reſtraint of the Kings Ex<g ref="char:EOLhyphen"/>orbitant Power.</p>
+               <p>4. If this mixture and well-poiſed Conſtitution have<note place="margin">No marvel if Jeſuitical Councels be active to over<g ref="char:EOLhyphen"/>throw the hap<g ref="char:EOLhyphen"/>pineſs of this Conſtitution.</note> raiſed this Kingdom to ſo great a Degree of Envy, no mar<g ref="char:EOLhyphen"/>vell if Jeſuitical Councells be Active to overthrow this Happy Conſtitution.</p>
+               <p>Q. 8. <hi>What is the Conveniency or Good of Monarchy?</hi>
+               </p>
+               <p>A. <hi>The Uniting of a Nation under one Head, to Reſiſt Invaſion from abroad, and Inſurrection at home, <hi>page</hi>
+                  </hi> 18.<note place="margin">The good of Monarchy.</note>
+               </p>
+               <p>
+                  <pb n="4" facs="tcp:111481:4"/>
+                  <hi>Obſerv.</hi> 1. What Pernicious Councellors are they then to<note place="margin">Pernicious Councellors to a Monarch who Councel to bring in ſtran<g ref="char:EOLhyphen"/>gers, <hi>&amp;c.</hi>
+                  </note> a Monarch that adviſe him to bring in from abroad <hi>German</hi> Horſe, or an <hi>Iriſh</hi> Army, or a Fleet of <hi>Danes</hi> to invade this Kingdom; or to imploy <hi>Dunkirk</hi> Ships to ſeaze upon his Merchants, which is ſo formally contrary to the proper Good and End of Monarchy it ſelf?</p>
+               <p>2. Or are they better or worſe that Adviſe him to Au<g ref="char:EOLhyphen"/>thorize,<note place="margin">That adviſe him to autho<g ref="char:EOLhyphen"/>rize and per<g ref="char:EOLhyphen"/>mit to plun<g ref="char:EOLhyphen"/>der, rob, ſpoil and impriſon, <hi>&amp;c.</hi> in his name.</note> or even permit any in his Name to Plunder, Rob, Spoil, Impriſon any of his Subjects, whom they have found peaceably in their houſes, or at work in the Fields, and have not diſobeyed any Legal Command of his?</p>
+               <p>Queſt. 9. <hi>What is the Ill of Abſolute Monarchy? or the In<g ref="char:EOLhyphen"/>convenience to which it is Lyable?</hi>
+               </p>
+               <p>A. <hi>The Ill of Abſolute Monarchy, is Tyranny, <hi>page</hi>
+                  </hi> 18.<note place="margin">The ill of ab<g ref="char:EOLhyphen"/>ſolute Monar<g ref="char:EOLhyphen"/>chy proneſs to Tyranny.</note>
+               </p>
+               <p>
+                  <hi>Obſerv.</hi> 1. Therefore the more Abſolute a Monarch is, the more prone to be a Tyrant.</p>
+               <p>2. Therefore alſo it is ſafer to Reſtrain the King of ſome<note place="margin">Safer for the Subject to re<g ref="char:EOLhyphen"/>ſtrain the King of ſome power then to grant him too much.</note> Power to do us good, then to grant him too much oppor<g ref="char:EOLhyphen"/>tunity to do us hurt; and the Danger is greater to the People in Enlarging the Kings Power, then in reſtraining it ſome what.</p>
+               <p>Q. 10. <hi>What is the good or Conveniency of Ariſtocracy?</hi>
+               </p>
+               <p>A. <hi>The good of Ariſtocracy is the Conjunction of Coun<g ref="char:EOLhyphen"/>cells</hi>
+                  <note place="margin">The good of Ariſtocracy.</note> 
+                  <hi>in the Ableſt perſons of a State for publick Benefit,</hi>
+                  <note place="margin">Good for the publick bene<g ref="char:EOLhyphen"/>fit of the State that conjucti<g ref="char:EOLhyphen"/>on of Coun<g ref="char:EOLhyphen"/>cells in Parlia<g ref="char:EOLhyphen"/>ment ſhould be made uſe of more then once in 13 or 14 years.</note> 
+                  <hi>page</hi> 18.</p>
+               <p>
+                  <hi>Obſerv.</hi> Then ſurely it is for the <hi>Publick Benefit</hi> of the State, that this <hi>Conjunction of Councells</hi> in Parliament ſhould be made uſe of more then once in thirteen or fourteen years; and the Law for a Triennial Parliament (if there were not others before for the holding of a Parliament yearly) was a moſt neceſſary Law, as alſo that it ſhould not be diſſolved for fifty dayes.</p>
+               <p>2. It was not then Intended in the <hi>Conſtitution of this Go<g ref="char:EOLhyphen"/>vernment,</hi>
+                  <note place="margin">The intenti<g ref="char:EOLhyphen"/>on in the con<g ref="char:EOLhyphen"/>ſtitution of this Govern<g ref="char:EOLhyphen"/>ment.</note> that the King in the greateſt matters of Impor<g ref="char:EOLhyphen"/>tance for publick benefit, ſhould only hear what they ſay, and then follow it, or reject it, meerly at his own <hi>Pleaſure;</hi> for this may be as well done in an Abſolute Monarchy.</p>
+               <p>3. Neither is it agreeable to the <hi>Conſtitution</hi> of this King<g ref="char:EOLhyphen"/>dom, to withdraw the King from affording his preſence to
+<pb n="5" facs="tcp:111481:4"/>
+his Great Councel of State, that ſo the private Counſels of<note place="margin">Not agreeable to the Conſti<g ref="char:EOLhyphen"/>tution of this Government, to withdraw the King from his great Coun<g ref="char:EOLhyphen"/>cel and to pre<g ref="char:EOLhyphen"/>fer private Councels.</note> Private men may be preferred before thoſe whom the Law and the <hi>Conſtitution of the Kingdom</hi> counts the Ableſt to judge of publick benefit.</p>
+               <p>Q. 11. <hi>What is the Ill of Ariſtocracy, or the Inconvenience to which it is lyable?</hi>
+               </p>
+               <p>A. <hi>The Ill of Ariſtocracy is Faction and Diviſion. <hi>p<g ref="char:punc">▪</g>
+                     </hi>
+                  </hi> 18</p>
+               <p>
+                  <hi>Obſ.</hi> What ſhall we ſay then to thoſe Private Councellors<note place="margin">The ill of Ariſtocracy.</note> that have abuſed the King, by perſwading him firſt to with<g ref="char:EOLhyphen"/>draw himſelf from his Parliament, and then to call away the<note place="margin">The miſ<g ref="char:EOLhyphen"/>chief of evil Councel in withdrawing the King from his Parliament and to call a<g ref="char:EOLhyphen"/>way the Mem<g ref="char:EOLhyphen"/>bers of both houſes, to the end to diſſolve the Parliament</note> Members of both Houſes, when yet without the Conſent of both Houſes this Parliament cannot be Adjourned to ano<g ref="char:EOLhyphen"/>ther place, much leſs Diſſolved? Yet if all would have come away at call, had it not been Diſſolved for want of Legal Numbers Remaining? And what greater Faction or Divi<g ref="char:EOLhyphen"/>ſion can there be, then ſuch as Divide between King and Parliament, and between the Houſe and their Members? Are not they moſt Pernicious Inſtruments, that make Mo<g ref="char:EOLhyphen"/>narchy it ſelf, (whoſe end is to unite as was ſaid before) thus far guilty of <hi>Faction</hi> and <hi>Diviſion?</hi>
+               </p>
+               <p>Q. 12: <hi>What is the Good,</hi> or <hi>Convenience of Democracy?</hi>
+               </p>
+               <p>A. <hi>The good of Democracy is Liberty, and the courage</hi>
+                  <note place="margin">The good of Democracy.</note> 
+                  <hi>and Induſtry which Liberty begets, <hi>page</hi>
+                  </hi> 18.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. Then the more Liberties are Encroached upon,<note place="margin">The more Li<g ref="char:EOLhyphen"/>berties are in<g ref="char:EOLhyphen"/>croached upon the more co<g ref="char:EOLhyphen"/>wardly and poor it ren<g ref="char:EOLhyphen"/>ders the Nati<g ref="char:EOLhyphen"/>on.</note> the more the people will be rendred Cowardly and Poor, as may be plain enough ſeen by comparing the Valour and Riches of this Nation in Q. <hi>Elizabeths</hi> days, with what hath been of Late Days.</p>
+               <p>2. The King himſelf, when once his Subjects by having loſt their Liberties, ſhall loſe withall their Courages, will<note place="margin">In the loſs of liberty the King himſelf ſhall be the greateſt looſer</note> prove the greateſt Looſer; for then his Kingdom will be an eaſie Prey to any Forraign Invader, or even to a home<g ref="char:EOLhyphen"/>bred Uſurper, that could gather any ſudden Strength, and would promiſe more Liberty.</p>
+               <p>Q. <hi>What is the Ill of Democracy, or the Inconvenience to which it is lyable?</hi>
+               </p>
+               <p>A. <hi>The Ills of Democracy are Tumults, Violence, and</hi>
+                  <note place="margin">The ills of Democracy.</note> 
+                  <hi>Licentiouſneſs, <hi>page</hi>
+                  </hi> 18.</p>
+               <p>
+                  <hi>Obſerv.</hi> If theſe be the Evils for which the Peoples Liber<g ref="char:EOLhyphen"/>ty
+<pb n="6" facs="tcp:111481:5"/>
+ought to be Reſtrained by the Mixture in this Govern<g ref="char:EOLhyphen"/>ment,<note place="margin">Reſtraint of liberties ſhould be meaſured according to the exigency evils.</note> then the Reſtraint of the Liberty ſhould be meaſured according to the Exigency of theſe Evils, and ſo much Li<g ref="char:EOLhyphen"/>berty ſhould be meaſured according to the Exigency of theſe Evils, and ſo much Liberty need only be Reſtrained as is ſuf<g ref="char:EOLhyphen"/>ficient for the prevention of theſe <hi>Evils.</hi>
+               </p>
+               <p>Q. 14. <hi>What is the mixture of this Kingdom, which gives it the Conveniences of all the three forementioned kinds of Govern<g ref="char:EOLhyphen"/>ment without the Inconveniences of any one.</hi>
+               </p>
+               <p>A. <hi>In this Kingdom the Laws are Joyntly made by a</hi>
+                  <note place="margin">The Laws of this Kingdom made by King, Peers &amp; Com<g ref="char:EOLhyphen"/>mons, gives it the co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>veni<g ref="char:EOLhyphen"/>ency of all three kinds of Government.</note> 
+                  <hi>King, by a houſe of Peeres, and by a houſe of Commons choſen by the people: All having free Votes, and particular priviledges, <hi>page</hi>
+                  </hi> 18.</p>
+               <p>
+                  <hi>Obſerv.</hi> Whereas there hath been great Queſtion made by many what is meant by the Power and Priviledges of Par<g ref="char:EOLhyphen"/>liament, mentioned in the Proteſtation, which hath been ſo generally made throughout the Kingdom? There is no rea<g ref="char:EOLhyphen"/>ſon<note place="margin">The Privi<g ref="char:EOLhyphen"/>ledges of Par<g ref="char:EOLhyphen"/>liament, are their certain Priviledges ac<g ref="char:EOLhyphen"/>cording to Law and the Con<g ref="char:EOLhyphen"/>ſtitution of the Kingdom.</note> to doubt but thoſe things which the King grants after<g ref="char:EOLhyphen"/>ward, to be the particular Priviledges of each Houſe, and of both, are their certain Priviledges according to Law, and the Conſtitution of the Kingdom; and to the maintaining of them every one that hath made the Proteſtation is moſt ſtrictly bound, without peradventure or ſhift.</p>
+               <p>2. That the Priviledges which the King challenges to Him<g ref="char:EOLhyphen"/>ſelf,<note place="margin">The Privi<g ref="char:EOLhyphen"/>ledges that the King challeng<g ref="char:EOLhyphen"/>eth are ſo far to be yielded unto, as they are conſiſtent with the ac<g ref="char:EOLhyphen"/>knowledged priviledges of both Houſes.</note> are to be yeilded to, only ſo far forth as they are con<g ref="char:EOLhyphen"/>ſiſtent with the acknowledged Priviledges of the two Houſes; becauſe the Monarchy being acknowledged to be a regulated Monarchy, and the Government mixt of Ariſto<g ref="char:EOLhyphen"/>cracy and Democracy, as well as Monarchy; it is the Privi<g ref="char:EOLhyphen"/>ledges of the two Houſes of Parliament that makes the mix<g ref="char:EOLhyphen"/>ture, and ſo they muſt Regulate and Interpret the Privi<g ref="char:EOLhyphen"/>ledges of the King, and not the Priviledges of the King Re<g ref="char:EOLhyphen"/>gulate or Interpret theirs, ſave only to the maintaining ſtill the Regal Dignity, and the Succeſſion according to Laws.</p>
+               <p>Q. 15. <hi>What Priviledges doth the King challenge to himſelf?</hi>
+                  <note place="margin">The Govern<g ref="char:EOLhyphen"/>ment truſted to the King by the Law of the Kingdom, and challenged by the King.</note>
+               </p>
+               <p>A. <hi>The Government according to theſe Laws is truſted to the King: Power of Treaties of War and Peace, of making Peers, of chooſing Officers, and Councellors for State, Judges for Law, Commanders for Forts and
+<pb n="7" facs="tcp:111481:5"/>
+Caſtles; giving Commisſions for raiſing men to make War abroad, or to prevent or provide againſt Invaſions and Inſurrections at home, Benefit of Confiſcations, power</hi>
+                  <note place="margin">The Privi<g ref="char:EOLhyphen"/>ledges above mentioned are only ſo far tru<g ref="char:EOLhyphen"/>ſted, as that they be not prejudicial to the privi<g ref="char:EOLhyphen"/>ledges of Par<g ref="char:EOLhyphen"/>liament in caſes of neceſ<g ref="char:EOLhyphen"/>ſity.</note> 
+                  <hi>of pardoning, and ſome other of like kind are placed in the King, <hi>page</hi>
+                  </hi> 18.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. That all theſe are ordinarily in the King, Ex<g ref="char:EOLhyphen"/>perience and Cuſtom Teaches, even thoſe that know not the Law by reading; but by what hath been noted before, and follows after, it is to be underſtood only ſo, as not to pre<g ref="char:EOLhyphen"/>judice the Priviledges of the Houſes of Parliament, eſpecially in caſes of Neceſſity, (of which hereafter.) Alſo—</p>
+               <p>2. It is acknowledged here, that the Government, Tru<g ref="char:EOLhyphen"/>ſted, is to be according to the Laws, and ſo all theſe Things<note place="margin">The Govern<g ref="char:EOLhyphen"/>ment truſted to be accor<g ref="char:EOLhyphen"/>ding to the Laws.</note> are not abſolutely in the King; as for inſtance, <hi>Pardons,</hi> the Law denies power of Pardoning wilful Murther; And Benefit of ſome Confiſcations belongs to ſome private Lords of Mannours.</p>
+               <p>3. If Government only according to Law be truſted to<note place="margin">To reſiſt no<g ref="char:EOLhyphen"/>torious illegal violences is not to reſiſt Kings Autho<g ref="char:EOLhyphen"/>rity.</note> the King then to reſiſt Notorious Illegal Violences is not to reſiſt the Kings Authority.</p>
+               <p>Q 16. <hi>For what end is this Authority truſted to the King, and placed in him?</hi>
+                  <note place="margin">For the Sub<g ref="char:EOLhyphen"/>jects ſake their Rights are veſted in the King.</note>
+               </p>
+               <p>A. <hi>For our Subjects ſake theſe rights are veſted in us, <hi>page</hi> 17. The Prince may not make uſe of this high and perpetual power to the hurt of thoſe for whoſe good he hath</hi> it, <hi>page</hi> 19.<note place="margin">The good of the Subject is to be prefer<g ref="char:EOLhyphen"/>red.</note>
+               </p>
+               <p>
+                  <hi>Obſerv.</hi> 1. Then the Good of the Subjects is ever to be preferred before the Monarchial Greatneſs of the King (the End is ever more conſiderable then the Means) <hi>Salus Po<g ref="char:EOLhyphen"/>puli</hi>
+                  <note place="margin">Whoſoever councells the King againſt the good of Subject, is an enemy to King and Common<g ref="char:EOLhyphen"/>wealth.</note> 
+                  <hi>is ſuprema Lex.</hi>
+               </p>
+               <p>2. Whoſoever counſels the King to any Thing againſt the good of his Subjects, is the Kings Enemy as well as the Com<g ref="char:EOLhyphen"/>mon wealths, by attempting to turn him from that which is the end of his Authority.</p>
+               <p>Q. 17. <hi>To what purpoſe eſpecially are the priviledges of the</hi>
+                  <note place="margin">The purpoſe and intention of the privi<g ref="char:EOLhyphen"/>ledges of both Houſes.</note> 
+                  <hi>houſe of Commons and the houſe of Peers?</hi>
+               </p>
+               <p>A. <hi>That the Prince may not make uſe of this High and perpetual power to the hurt of thoſe for whoſe good he hath it: and make uſe of the name of publick necesſity for
+<pb n="8" facs="tcp:111481:6"/>
+the gain of his private Favorites and Followers,</hi> &amp;c. <hi>page.</hi> 19.<note place="margin">The Law pre<g ref="char:EOLhyphen"/>ſuppoſes, ſuch caſes to fallout and on whom the blame is impoſed.</note>
+               </p>
+               <p>
+                  <hi>Obſerv.</hi> 1. The Law then ſuppoſes, that ſuch Caſes fall out, though it then Charge the Blame upon thoſe <hi>Favorites</hi> and <hi>Followers,</hi> and not upon the King (as we ſhall ſee by and by.)</p>
+               <p>2. We need not wonder then why Private <hi>Frivorites</hi> and<note place="margin">No wonder if Favorites be ſuch Enemies to Parliaments &amp; priviledges.</note> 
+                  <hi>Followers</hi> are ſuch Enemies to Parliaments and their Privi<g ref="char:EOLhyphen"/>ledges which are on purpoſe to hinder their gains: Of which alſo more anon.</p>
+               <p>3. The two Houſes are by the Law it ſeems, to be <hi>Truſted;</hi>
+                  <note place="margin">The truſt to be repoſed in the two houſes by Law.</note> when they declare, that Power is made uſe of for the hurt of the People; and the Name of <hi>publick neceſſity</hi> made uſe of for the Gain of <hi>Private Favorites</hi> and <hi>Followers.</hi> and the like.</p>
+               <p>Queſt. 18. <hi>What are the ſpecial priviledges of the Houſe of</hi>
+                  <note place="margin">The ſpecial priviledges of the houſe of Commons</note> 
+                  <hi>Commons towards this?</hi>
+               </p>
+               <p>A. <hi>The Houſe of Commons, an Excellent conſerver of</hi>
+                  <note place="margin">The Houſe of Commons more caareful for the Sub<g ref="char:EOLhyphen"/>jects then the King, &amp;c.</note> 
+                  <hi>Liberty—is ſolely intruſted with the firſt propoſiti<g ref="char:EOLhyphen"/>ons concerning the Leavies of Moneys which is the Sin<g ref="char:EOLhyphen"/>news as welt of Peace as of War,</hi> &amp;c. <hi>page</hi> 19.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. It ſeems then the <hi>Houſe of Commons</hi> is preſum<g ref="char:EOLhyphen"/>ed to be more careful for the Subjects Liberties, then either the King, or the Houſe of Peers.<note place="margin">Strange that the houſe of Commons ſhould fight againſt liberty and propriety of the Subject.</note>
+               </p>
+               <p>2. Then it muſt needs be ſtrange for any to conceive (as the Kings Declarations would perſwade) that the Houſe of Commons would Fight againſt and Subvert the Liberty and Propriety of the Subject, and the Kings Favorites and Followers Fight for them, and protect them.</p>
+               <p>3. Then no Moneys may be Levyed neither for Peace nor<note place="margin">No moneys may be levyed either for Peace or War or under pre<g ref="char:EOLhyphen"/>tence of pub<g ref="char:EOLhyphen"/>lick neceſſity, without the Commons firſt propound it.</note> War, no not under Pretence of <hi>Publick Neceſſity,</hi> (as Ship<g ref="char:EOLhyphen"/>money and Monopolies were) without the Houſe of Com<g ref="char:EOLhyphen"/>mons firſt propound and grant it.</p>
+               <p>4. If the Houſe of Commons be an <hi>Excellent Conſerver of Liberty,</hi> it muſt needs have ſome Power in ſome Caſes to Levy Money even without the Kings conſent; or elſe it will be utterly unpoſſible to conſerve Liberty at all, Of<note place="margin">If the houſe of Commons be a Conſerver of Liberty, it muſt have power in ſome caſes to leavy Money, &amp;c.</note> which likewiſe more anon.</p>
+               <p>Q. 19. <hi>But if the Kings Private Favorites and Followers have actually perſwaded him to any Thing againſt the Laws and Liberties of the Subject with what further Power and Privi<g ref="char:EOLhyphen"/>ledge is the Houſe of Commons Intruſted toward the Conſerving of Liberty?</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:111481:6"/>A. <hi>With the Impeaching of thoſe, who for their own</hi>
+                  <note place="margin">The Houſe of Commons is intruſted with power to im<g ref="char:EOLhyphen"/>peach ſuch as have actually perſwaded the King to any thing againſt the Laws and Liberty of the Subject, &amp;c.</note> 
+                  <hi>Ends though countenanced by any ſurreptitiouſly-gotten command of the King, have violated that Law, which he is bound (when he knows it) to protect; and to the protection of which they were bound to adviſe him, at leaſt not to ſerve him in the contrary, <hi>page</hi>
+                  </hi> 19.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. Then it is no excuſe to any that Violate the<note place="margin">No excuſe to any that vio<g ref="char:EOLhyphen"/>late the Laws, to ſay they ſerve the King in ſo doing.</note> Laws, that they <hi>ſerve the King</hi> in it.</p>
+               <p>2. The Law counts all Commands from the King, which<note place="margin">What ac<g ref="char:EOLhyphen"/>count the Law makes of all commands ſurreptitiouſly gotten from the King.</note> are any way contrary to the Law, <hi>Surreptitiouſly Gotten.</hi>
+               </p>
+               <p>3. Then the Parliament ſpeaks according to the Law,<note place="margin">The Parlia<g ref="char:EOLhyphen"/>ment do legal<g ref="char:EOLhyphen"/>ly lay the blame of all violation of Law upon the Kings Favorites that obtain unlawful commands.</note> when they conſtantly lay the blame of all violations upon the Kings <hi>Favorites</hi> and <hi>Followers,</hi> and their getting Sur<g ref="char:EOLhyphen"/>reptitiouſly Commands from him, and not upon the King himſelf.</p>
+               <p>4. No Command of the King is to hinder the Commons<note place="margin">No command of the Kings is to hinder the Impeachment of ſuch.</note> from Impeaching ſuch as have violated the Law.</p>
+               <p>5. The King is bound not to Protect any of his Followers<note place="margin">The King is bound not to protect any of his Followers or Favorites againſt Im<g ref="char:EOLhyphen"/>peachments.</note> and Favorites againſt the Commons Impeachment of them; becauſe he knows and affirms, that he is bound to Protect the Laws, and that this is the Law, that the Commons are to Impeach ſuch.</p>
+               <p>Queſt. 20. <hi>What is the ſpecial Priviledge of the Houſe of Peers in the former Caſe of ſuch Favorites and Followers of the Kings as are Impeached by the Commons? and ſo to decide all Matters in Queſtions between the King and the People.</hi>
+               </p>
+               <p>A. <hi>The Lords being truſted with a Judicatory power are</hi>
+                  <note place="margin">Judicature power is the ſpecial privi<g ref="char:EOLhyphen"/>ledge of the Lords houſe, which is an excellent Screen and Bank between the King and People.</note> 
+                  <hi>an Excellent Screen and Bank between the Prince and the people, to aſſiſt each againſt any Encroachments of the o<g ref="char:EOLhyphen"/>ther, and by juſt Judgments to preſerve that Law which uoght to be the Rule of every one of the three, <hi>page</hi>
+                  </hi> 19.</p>
+               <p>Queſt. 21. <hi>But have the two Houſes Power to put their judg<g ref="char:EOLhyphen"/>ments
+<pb n="10" facs="tcp:111481:7"/>
+into Execution, as well as to Impeach and Judge?</hi>
+                  <note place="margin">The houſes have power to put their Judg<g ref="char:EOLhyphen"/>ments in exe<g ref="char:EOLhyphen"/>cution.</note>
+               </p>
+               <p>A. <hi>The power of puniſhment is already in your hands according to Law, <hi>page</hi>
+                  </hi> 20.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. Then again it is no wonder that the Kings <hi>Favorites</hi> and <hi>Followers</hi> hate Parliaments, (who not only<note place="margin">No wonder that the Kings Favorites hate Parliaments.</note> hinder their Gain, but have Power to puniſh them) when they have violated the Laws.</p>
+               <p>2. Then the Lords (and much more the two Houſes to<g ref="char:EOLhyphen"/>geaher)<note place="margin">The two Houſes are ſu<g ref="char:EOLhyphen"/>pream Judges of all matters in difference between King and people.</note> are ſupreme Judges of all matters in difference be<g ref="char:EOLhyphen"/>tween the King and the People, and have power to prevent all the Kings Encroachments upon the people, as well as the Peoples upon him.</p>
+               <p>3. Then the King is bound not to Protect any whom the<note place="margin">The King is bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd not to protect De<g ref="char:EOLhyphen"/>linquents.</note> Lords upon the Impeachment of the Commons, have Judg<g ref="char:EOLhyphen"/>ed Delinquents; For he hath granted that he is bound to Protect the Law, and that according to Law the Power of puniſhing (even of his Favorites and Followers, before ſpoken of) is in their hands, and they cannot puniſh them, ſo long as he Protects them.</p>
+               <p>4. Then the Law allows them as the Supreme Judicatory<note place="margin">The Law al<g ref="char:EOLhyphen"/>lows the upper houſe to be the ſupream Judicatory, &amp; to be a Skreen between the King and Peo<g ref="char:EOLhyphen"/>ple, &amp;c.</note> (even that which muſt be a Skreen between the King and the People, and Aſſiſt the People againſt the Kings Encroach<g ref="char:EOLhyphen"/>ments and puniſh the Kings <hi>Favorites</hi> and <hi>Followers,</hi> though countenanced by Surreptitiouſly-Gotten Commands from the King) a Power to bring ſuch as they have Judged, (or are to Judge) to Condign Puniſhment, which is granted to all Inferiour Judges in their Circuits and Juriſdictions.</p>
+               <p>5. Then if thoſe Delinquents get the King to Protect<note place="margin">The Power of both Houſes is by Law to raiſe Arms if need be, for the ap<g ref="char:EOLhyphen"/>prehending of Delinquents.</note> them, or ſurreptitiouſly get Commands of him, to raiſe Arms to Shelter themſelves againſt the Judgment of the two Houſes; the two Houſes have Power by the Law to raiſe not only the <hi>Poſſe Comitatus</hi> of thoſe Counties where ſuch De<g ref="char:EOLhyphen"/>linquents are, to apprehend them, but alſo the <hi>Poſſe Regni,</hi> the Power of the whole Kingdom if need be: or elſe the Power of Puniſhment is not in their hands according to Law, and it would be ſafer contemning and ſcorning and oppoſing the higheſt Judicatory, the Parliament, then any Inferiour Court, a Judge of Aſſize, or the like: and they that could get Commands to Violate the Law before, would eaſi<g ref="char:EOLhyphen"/>ly
+<pb n="11" facs="tcp:111481:7"/>
+get Protection againſt the Parliament when they are Queſtioned, if the Parliament had no Power to raiſe Arms to ſuppreſs them.</p>
+               <p>Queſt. 22. <hi>But if there be an Attempt or Danger, that the Kings Favorites and Followers go about to change this Regula<g ref="char:EOLhyphen"/>ted Monarchy into an Arbitrary Government, and ſo into a Ty<g ref="char:EOLhyphen"/>ranny; is there Authority in the Houſes ſufficient, according to what was fore-mentioned to remedy this?</hi>
+               </p>
+               <p>A. <hi>Power Legally Placed in both Houſes is more then</hi>
+                  <note place="margin">A power le<g ref="char:EOLhyphen"/>gally placed in both houſes is more then ſuf<g ref="char:EOLhyphen"/>ficient to pre<g ref="char:EOLhyphen"/>vent Tyranny.</note> 
+                  <hi>ſufficient to prevent and reſtrain the power of Tyranny. <hi>page</hi>
+                  </hi> 20.</p>
+               <p>
+                  <hi>Obſerv.</hi> 1. Then at leaſt what ever Power is neceſſary to prevent or reſtrain the Power of Tyranny is confeſſed to be Legally placed in both Houſes; fot elſe there is not Power ſufficient, much leſs, more then ſufficient.</p>
+               <p>2. Then it is lawful for the two Houſes to Raiſe Arms<note place="margin">Lawful for both houſes to raiſe an Army to defend themſelves a<g ref="char:EOLhyphen"/>gainſt any power raiſed againſt them.</note> to defend themſelves in caſe an Army be raiſed againſt them<g ref="char:punc">▪</g> for elſe they have not power ſufficient to reſtrain the power of Tyranny: There is no greater attempt of Tyranny then to raiſe Arms againſt the Houſes of Parliament, and there is no way to reſtrain this Tyranny, but by raiſing Arms in their own Defence: Leſs then this cannot be ſufficient.<note place="margin">The Parlia<g ref="char:EOLhyphen"/>ment are legal Judges in dan<g ref="char:EOLhyphen"/>ger of Tyran<g ref="char:EOLhyphen"/>ny, and have power to com<g ref="char:EOLhyphen"/>mand their judgment to be obeyed, &amp;c<g ref="char:punc">▪</g> Lawful for the Parliament to provide for their own and the Kingdoms ſafety, and to command the people to this purpoſe, both when arms are actually raiſed and when they diſcern a Pre<g ref="char:EOLhyphen"/>paration there unto.</note>
+               </p>
+               <p>3. If a Legal Power be placed in them, not only to re<g ref="char:EOLhyphen"/>ſtrain but <hi>prevent the Power of Tyranny,</hi> then they are the Legal Judges, when there is danger of Tyranny; and they have Legal Power to Command their judgment to be obeyed, for Preventions as well as Reſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rint of <hi>Tyranny.</hi>
+               </p>
+               <p>4. Then it is lawful for them to provide for their own and the Kingdoms ſafety, and they have Legal Power to com<g ref="char:EOLhyphen"/>mand the People to this purpoſe; not only when Arms are actually raiſed againſt them, but when they Diſcern, and ac<g ref="char:EOLhyphen"/>cordingly declare a Preparation made towards it. for if they let alone altogether the <hi>Exerciſe</hi> of their power. til Arms are <hi>Actually</hi> raiſed againſt them; they may in all likelihood find it too <hi>late,</hi> not only to <hi>Prevent,</hi> but even to <hi>Reſtrain the Power of Tyranny.</hi>
+               </p>
+               <p>5. Then they have Legal Power in ſuch Times of danger, to put into ſafe hands, ſuch Forts, Ports, Magazines, Ships, and Power of the <hi>Militia,</hi> as are intended, or likely to be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>tended,
+<pb n="12" facs="tcp:111481:8"/>
+to Introduce a Tyranny; for elſe they cannot have<note place="margin">Legal power in times of danger to put into ſafe hands, Forts, Ports, Magazines, ships, &amp;c.</note> Power ſufficient to <hi>Prevent</hi> or <hi>Reſtrain the Power of Tyranny.</hi>
+               </p>
+               <p>6. Then they have, Legal Power to Levy Moneys, Arms,<note place="margin">Legal power to leavy mo<g ref="char:EOLhyphen"/>neys, Arms, Horſe Ammu<g ref="char:EOLhyphen"/>nition of the subjection ſuch caſes of dan<g ref="char:EOLhyphen"/>ger, without or againſt the conſent of the King, &amp;c.</note> Horſe, Ammunitions upon the Subjects, in ſuch caſes of <hi>Danger,</hi> even without or againſt the Kings Conſent; for it cannot be imagined that in ſuch caſes when the Kings Fa<g ref="char:EOLhyphen"/>vourites and Followers have gotten Commands from him, to protect them in their Delinquencies and Attempts to In<g ref="char:EOLhyphen"/>troduce Tyranny, that ever he will conſent to Levies of Mo<g ref="char:EOLhyphen"/>neys againſt thoſe Favorites and Followers of his, or to the raiſing Arms againſt them, eſpecially he being ſtill in their hands, and among them, and not with his Parliament; and without ſuch Levies of Moneys, <hi>&amp;c.</hi> it is not poſſible for the two Houſes of Parliament to prevent or reſtrain ſuf<g ref="char:EOLhyphen"/>ficiently the Power of Tyranny.</p>
+               <p>7. They that have made the <hi>Proteſtation,</hi> to maintain and<note place="margin">In all theſe things ac<g ref="char:EOLhyphen"/>knowledged by the King, &amp; clearly fol<g ref="char:EOLhyphen"/>lowing from his acknow<g ref="char:EOLhyphen"/>ledgments, all men may ſee the power and priviledges of Parliment.</note> defend the <hi>Power and Priviledges of Parliament,</hi> may ſee in all theſe Things (acknowledged by the King, and clearly Fol<g ref="char:EOLhyphen"/>lowing from his acknowledgeenents) what is that <hi>Power,</hi> and what are <hi>Priviledges of Parliament,</hi> which they have ſo ſolemly in the preſence of Almighty God Vowed, Promiſed and Proteſted to maintain, <hi>&amp;c.</hi>
+               </p>
+               <p>8. And finally, ſince the two Houſes of Parliament have ſo often and fully declared their <hi>Intentions</hi> in ſettling the <hi>Militia,</hi> ſecuring <hi>Hull</hi> and the Magazine there, and the Navy<note place="margin">That ſince the two houſes have ſo often declared their intentions in ſettling the Militia, ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u<g ref="char:EOLhyphen"/>ing of <hi>Hull,</hi> &amp;c.</note> at Sea, with Ports and Forts, and afterward in Raiſing Arms under the Commanp of the <hi>Earl of Eſſex,</hi> and laſt of all, Levy<g ref="char:EOLhyphen"/>ing Moneys by voluntary Contributions and Aſſeſſments; they have only uſed that <hi>Legal Power</hi> which is in them for the Puniſhment of <hi>Delinquents,</hi> and for the <hi>Prevention</hi> and <hi>Reſtraint</hi> of the power of Tyranny, of all which they are the<note place="margin">All men may ſee that they have only uſ<g ref="char:EOLhyphen"/>ed that legal power which is in them<g ref="char:punc">▪</g> for puniſhing delinquents, prevention and reſtraining of Ty<g ref="char:EOLhyphen"/>ranny, <hi>&amp;c.</hi>
+                  </note> Legal Judges; and all the Subjects of this Kingdom are bound by the Laws to obey them herein, and thoſe doubly bound that have made the late <hi>Proteſtation.</hi>
+               </p>
+            </div>
+            <div type="royal_proclamation">
+               <pb n="13" facs="tcp:111481:8"/>
+               <head>That the Reader may the better diſcern how the An<g ref="char:EOLhyphen"/>ſwers here applyed do agree with the words of his Majeſties anſwer the to 19 Propoſitions, I have here tranſcribed ſo much of it as concerns this particular.</head>
+               <p>
+                  <hi>Page 17.</hi> We call God to witneſs, that as for our ſubjects<note place="margin">Conceening the Govern<g ref="char:EOLhyphen"/>ment of the Kingdom.</note> ſake theſe Rights are veſted in Us, [ſo for their ſakes as well as for our own) we are reſolved not to quit them nor to ſub<g ref="char:EOLhyphen"/>vert (though in a parliamentary way) the ancient, equal, happy well-poyſed, and uever-enough-commended Conſti<g ref="char:EOLhyphen"/>tution of the Government of this Kingdom.<note place="margin">Three kinds of Govern<g ref="char:EOLhyphen"/>ment amongſt men.</note>
+               </p>
+               <p>There being three kinds of Government amouſt men, Abſolute Monarchy, Ariſtoceacy, and Democracy, and all theſe having their particular conveniences and inconve<g ref="char:EOLhyphen"/>niences.<note place="margin">The provi<g ref="char:EOLhyphen"/>dence of our Anceſtors hath ſo moul<g ref="char:EOLhyphen"/>ded the Go<g ref="char:EOLhyphen"/>vernment of this Kingdom, as by a mix<g ref="char:EOLhyphen"/>ture of all three kinds to give the con<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iences of them all, &amp;c.</note>
+               </p>
+               <p>
+                  <hi>page 18.</hi> The experience and wiſdom of your Auceſtors hath ſo moulded this out of a mixture of theſe, as to give to this Kingdom (as far as humane prudence can provide) the conveniences of all three, without the inconveniences of any one, as long as the Ballance bangs even between the three Eſtates, and they run joyntly on in their proper channel (be<g ref="char:EOLhyphen"/>getting Uerdure a Fertility in the meadows on both ſides) and the over-flowing of either on either ſide, raiſe no Deluge or Inunda<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion. The ill of Abſolute Monarchy is Tyranny, The ill of Ariſtocracy is Faction and Divi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, The Ills of Democracy are Tumuls, Violence, and Licentiouſneſs: The good of Monarhy is the Vniting a Nation under one Head, to Reſiſt Invaſion from abroad, and Inſurrection at home: The good of Ariſtocracy is the conjunction of Councel in the Ableſt perſons of a State for the publick benefit: The good of Democracy is Liberty, and the courage and induſtry which Liberty begets.</p>
+               <p>In this Kingdom the Laws are Joyntly made by a King,<note place="margin">How the Laws of this Kingdom are made.</note> by a houſe of Peeres, and by a houſe of Commons choſen by the people, all having free Votes, and particular priviledges. The Government according to theſe Laws is truſted to the<note place="margin">Truſt. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>epo<g ref="char:EOLhyphen"/>ſed in the King.</note> King: Power of Treaties of War and Peace, of making Peers, of chooſing Officers, and Councellors for State Judges
+<pb n="14" facs="tcp:111481:9"/>
+for Law, Commanders for Forts and Caſtles; giving Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>miſsions for raiſing men to make War abroad, or to pro<g ref="char:EOLhyphen"/>vent and provide againſt Invaſions or Inſurrections at hom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; benefit of Confiſcations, power of pardoning, &amp; ſome more of<note place="margin">Concerning the extent of the Princes li<g ref="char:EOLhyphen"/>berty.</note> the like kind are placed in the King.—Again. <hi>page</hi> 19. that the Prince may not make uſe of this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igh and perpetual power to the hurt of thoſe for whoſe good he hath it, and make uſe of the name of publick neceſſity for the gain of his privats Favorites &amp; Followers to the dotriment of his people; the houſe of Commons an excellent conſerver of Liberty, (but never intended for any ſhare in Government, or the chuſing of them that ſhould govern) is ſolely intruſted with the firſt Propoſitions concerning the Levies of Moneys (which is the ſinews as well of peace as war,) and the impeaching of thoſe<note place="margin">The Truſt repoſed in the houſe of Com<g ref="char:EOLhyphen"/>mons.</note> who for their own ends, though countenanced by any ſurrep<g ref="char:EOLhyphen"/>titiouſly-gotten command of the King, have violated that Law, which he is bound (when he knows it) to protect, and to the protection of which they were bound to adviſe him, at leaſt not to ſerve him to the contrary: and the Lords being truſted<note place="margin">The Truſt of the Lords</note> with a Judicatory power, are an excellent ſcreen &amp; bank be<g ref="char:EOLhyphen"/>tween the Prince &amp; people, to aſſiſt each againſt any incroach<g ref="char:EOLhyphen"/>ments of the other, &amp; by juſt judgments to preſerve that Law which ought to be the Rule of every one of the three.—</p>
+               <p>
+                  <hi>Page 20.</hi> Since therefore the Power Legally placed in both<note place="margin">The ſuffici<g ref="char:EOLhyphen"/>ency of the power placed in both houſes</note> Houſes is more then ſufficient to prevent and reſtrain the power of Tyrauny:—ſince this would be a total Subverſion of the Fundamental Laws, and that excellent conſtitution of this Kingdom, which hath made this Nation ſo many years both Famous and Happy to a great degree of envy, ſince to the power of puniſhing (which is already your hands accor<g ref="char:EOLhyphen"/>ding<note place="margin">Incroachment of Power.</note> to Law) if—ſince the encroaching of one of theſe Eſtates upon the power of the other is unhappy in the effects both to them and all the reſt.—<hi>Page</hi> 22. Our anſwer is, <hi>Nolumus Leges Angliæ mu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ari.</hi> But this we promi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, that<note place="margin">Careful to preſeeve Laws</note> we will be as careful of preſerving the Laws in what is ſup<g ref="char:EOLhyphen"/>poſed to concern wholly our Subjects, as in what moſt con<g ref="char:EOLhyphen"/>cerns our ſelf: For indeed we profels to believe that the pre<g ref="char:EOLhyphen"/>ſervation of every Law concerns Vs, thoſe of obedience be<g ref="char:EOLhyphen"/>ing not ſecure; when thoſe of protection are violated,</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
